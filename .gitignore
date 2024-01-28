@@ -86,3 +86,11 @@ Assembly-CSharp.csproj
 Assembly-CSharp.csproj
 
 .vscode
+
+#Windowsで追加
+*.log
+*.dwlt
+*.asset
+*.vsconfig
+StreamingAssets\build_info
+ProjectSettings\SceneTemplateSettings.json
